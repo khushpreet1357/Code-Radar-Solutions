@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main(){
 char u[100];
 scanf("%s",&u);
 printf("name: %s\n",u);
@@ -10,3 +10,4 @@ char x[100];
 scanf("%s",&x);
 printf("hobby: %s",x);
 return 0;
+}
