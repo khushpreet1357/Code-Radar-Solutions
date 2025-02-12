@@ -2,12 +2,12 @@
 int main(){
 char u[100];
 scanf("%s",&u);
-printf("name: %s\n",u);
+printf("Name: %s\n",u);
 int m;
 scanf("%d",&m);
-printf("age: %d\n",m);
+printf("Age: %d\n",m);
 char x[100];
 scanf("%s",&x);
-printf("hobby: %s",x);
+printf("Hobby: %s",x);
 return 0;
 }
