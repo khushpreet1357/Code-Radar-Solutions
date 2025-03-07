@@ -6,7 +6,7 @@ int main(){
     printf("Set\n");
     }
     else{
-        printf("Not sure\n" )
+        printf("Not set\n" )
     }
 
 }
