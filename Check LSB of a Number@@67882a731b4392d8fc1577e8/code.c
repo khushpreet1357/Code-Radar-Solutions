@@ -2,7 +2,7 @@
 int main()
 {
     int a;
-    if (a==5)
+    if ("a==5")
     {
         printf("Set");
 
