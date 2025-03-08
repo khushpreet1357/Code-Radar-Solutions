@@ -3,6 +3,6 @@ int main(){
     int num;
     scanf("%d",&num);
     if((num & (1 << num)) ! = 0){
-        printf("0 o 1");
+        printf("0 or 1");
     }}
 
