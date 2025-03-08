@@ -1,12 +1,14 @@
 #include<stdio.h>
-int main(){
-    int a;
-    scanf("%d",&a);
-    if(a%2==0){
-    printf("Even");
-}
-else{
-    printf("Odd");
-}
+int main() 
+{
+    int a,b;
+    scanf("%d %d",&a,&b);
+    if(a<b){
+        printf("%d",b);
+    }
+    else{
+        printf("%d",a);
+    }
 return 0;
+
 }
