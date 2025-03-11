@@ -2,6 +2,6 @@
 #include<stdio.h>
 int main(){
     printf("10");
-     printf("20");
-      printf("30");
+    //  printf("20");
+    //   printf("30");
 }
