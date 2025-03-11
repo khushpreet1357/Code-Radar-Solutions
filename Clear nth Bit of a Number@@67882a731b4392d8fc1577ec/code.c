@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main(){
-    int num;
-    scanf("%d",&num);
-    if((num & (1 << num)) ! = 0){
-        printf("0 or 1");
-    }}
+    int num,N;
+    scanf("%d %d",&num,&N);
+    num = num & ~(1 << N);
+        printf("%d\n",num);
+    return 0;
+    }
 
