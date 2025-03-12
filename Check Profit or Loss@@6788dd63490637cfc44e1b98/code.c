@@ -4,10 +4,10 @@ int main(){
     float cost_price,selling_price;
     scanf("%f %f",&cost_price,&selling_price);
     if(selling_price < cost_price){
-        printf("Profit");
+        printf("Profit\n");
     }
     else if(cost_price > selling_price){
-        printf("Loss");
+        printf("Loss\n");
             }
         else{
         printf("No Profit No Loss");
