@@ -1,8 +1,8 @@
 // Your code here..
 #include<stdio.h>
 int main(){
-    int p,l;
-    scanf("%d %d",&p,&l);
+    float p,l;
+    scanf("%f %f",&p,&l);
     if(p>l){
         printf("Profit");
     }
