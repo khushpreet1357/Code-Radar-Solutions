@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(){
     float cost_price,selling_price;
-    scanf("%d %d",&cost_price,&selling_price);
+    scanf("%f %f",&cost_price,&selling_price);
     if(selling_price >cost_price){
     printf("Profit");
 }
