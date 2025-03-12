@@ -1,7 +1,9 @@
 // Your code here...
 #include<stdio.h>
 int main(){
-    printf("10 20 30 ");
-    //  printf("20");
-    //   printf("30");
+    int a,b,c;
+    scanf("%d %d %d",&a,&b,&c);
+    int max =(a>b)?((a>c)?a:c) : ((b>c)?b:c);
+        printf("%d\n",max);
+        return 0;  
 }
