@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<ctype.h>
 int main(){
     char d;
     scanf("%c",&d);
@@ -15,4 +16,5 @@ int main(){
         printf("Special Character\n");
     }
     return 0;
+}
 }
