@@ -1,12 +1,12 @@
 // Your code here..
 #include<stdio.h>
 int main(){
-    float p,l;
-    scanf("%f %f",&p,&l);
-    if(p>l){
+    float cost,selling;
+    scanf("%f %f",&cost,&selling);
+    if(cost>selling){
         printf("Profit");
     }
-    else if(p<l){
+    else if(cost<selling){
         printf("Loss");
             }
         else{
