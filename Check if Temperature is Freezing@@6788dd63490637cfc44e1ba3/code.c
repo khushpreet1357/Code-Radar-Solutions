@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main(){
 int temperature;
-if(temperature>0 && temperature>0)
+if(temperature=0 && temperature>0)
 {
 printf("Above freezing");} 
 else{
