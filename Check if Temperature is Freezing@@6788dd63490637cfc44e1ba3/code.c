@@ -1,12 +1,12 @@
 // Your code here...
 #include <stdio.h>
 int main(){
-int temperature;
-if(temperature=0 && temperature>0)
+int temp;
+if(temp<=0)
 {
-printf("Above freezing");} 
+printf("Freezing");} 
 else{
-    printf("Freezing");
+    printf("Above Freezing");
 
 }
 return 0;
