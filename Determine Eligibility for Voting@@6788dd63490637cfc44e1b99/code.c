@@ -2,11 +2,11 @@
 int main(){
     int z;
     scanf("%d,&z");
-    if(z<=18){
-        printf("Not Eligible");
+    if(z>=18){
+        printf("Eligible");
     }
     else{
-    printf("Eligible");
+    printf("Not Eligible");
     }
     return 0;
 }
