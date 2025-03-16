@@ -10,7 +10,7 @@ int main(){
 if(a=='G'){
     printf("Go");
 }
-if(a=="Y"){
+if(a=='Y'){
 printf("Slow Down");
 }
 return 0;
