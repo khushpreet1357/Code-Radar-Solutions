@@ -13,5 +13,8 @@ else if(a=='G'){
 else if(a=='Y'){
 printf("Slow Down");
 }
+else{
+    printf("Invalid input")
+}
 return 0;
 }
