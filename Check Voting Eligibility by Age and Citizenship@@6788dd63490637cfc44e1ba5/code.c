@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int age,citizen_status;
-    scanf("%d %d"&age,&citizen_status);
+    scanf("%d %d",&age,&citizen_status);
     if(ag>18 && citizen_status==1){
         printf("Eligible");
         else{
