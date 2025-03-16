@@ -13,7 +13,7 @@ int main(){
         else if("a==3"){
         printf("31");
     }
-    else if(a==4)
+    else if(a==4){
     {
     printf("30");
     }
