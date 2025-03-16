@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main(){
-    char ab;
-    scanf("%c",&ab);
+    char a;
+    scanf("%c",&a);
     if(a=='A'){
         printf("Excellent");
     }
-    else if('B'){
+    else if(a=='B'){
     printf("Good");
 }
 else if(a=='C'){
