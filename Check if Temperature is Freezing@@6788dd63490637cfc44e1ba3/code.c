@@ -1,8 +1,8 @@
 // Your code here...
 #include <stdio.h>
 int main(){
-int temp;
-if(temp>0 && temp>0)
+int temperature;
+if(temperature>0 && temperature>0)
 {
 printf("Above freezing");} 
 else{
