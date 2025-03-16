@@ -1,14 +1,14 @@
-// Your code here...
-#include <stdio.h>
+#include<stdio.h>
 int main(){
-int temperature;
-scanf("%d",&temperature);
-if(temperature=>0){
-printf("Above freezing");
-} 
-else{
-    printf("Freezing");
-
+    int temp;
+    scanf("%d",&temp);
+    if(temp>0){
+    printf("Above Frezzing");
 }
+else{
+printf("Freezing");
+}
+
 return 0;
+
 }
