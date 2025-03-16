@@ -10,7 +10,7 @@ int main(){
 
     printf("28");
         }
-        else if("a==3"){
+        else if(a==3){
         printf("31");
     }
     else if(a==4){
