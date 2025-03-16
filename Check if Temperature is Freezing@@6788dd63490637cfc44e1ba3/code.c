@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-    int temp;
-    scanf("%d",&temp);
-    if(temp<=0){
+    int j;
+    scanf("%d",&j);
+    if(j<=0){
     printf("Frezzing\n");
 }
 else{
