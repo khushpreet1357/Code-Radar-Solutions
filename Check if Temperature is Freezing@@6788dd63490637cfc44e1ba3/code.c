@@ -2,9 +2,9 @@
 #include <stdio.h>
 int main(){
 int temp;
-if(temp>=1)
+if(temp>0 && temp>0)
 {
-printf("Above freezing");}
+printf("Above freezing");} 
 else{
     printf("Freezing");
 
