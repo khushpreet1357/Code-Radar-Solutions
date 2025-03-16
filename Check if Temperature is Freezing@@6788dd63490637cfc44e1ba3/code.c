@@ -6,7 +6,7 @@ int main(){
     printf("Above Frezzing\n");
 }
 else{
-printf("Freezing");
+printf("Freezing\n");
 }
 
 return 0;
