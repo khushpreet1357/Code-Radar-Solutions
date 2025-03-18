@@ -1,4 +1,4 @@
-// Your code here...#include <stdio.h>
+#include <stdio.h>
 
 // Function to find the first peak element
 int findFirstPeak(int arr[], int n) {
