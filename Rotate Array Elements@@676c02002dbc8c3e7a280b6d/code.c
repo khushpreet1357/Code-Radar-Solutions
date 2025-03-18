@@ -52,5 +52,5 @@ int main() {
     // Print the rotated array
     printArray(arr, n);
 
-    return 0;
+ 
 }
