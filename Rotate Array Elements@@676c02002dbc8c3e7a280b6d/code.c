@@ -20,7 +20,7 @@ void rotateArray(int arr[], int N, int K) {
 }
 
 int main() {
-    int N, K;
+    int N;
     scanf("%d", &N);
     
     int arr[N];
@@ -28,12 +28,13 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
+    int K;
     scanf("%d", &K);
 
     rotateArray(arr, N, K);
 
     for (int i = 0; i < N; i++) {
-        printf("%d ", arr[i]);
+        printf("%d\n", arr[i]);
     }
 
     return 0;
