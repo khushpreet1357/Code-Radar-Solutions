@@ -1,5 +1,3 @@
-Here is the C program as per your instructions:
-
 #include <stdio.h>
 
 void reverse(int arr[], int start, int end) {
