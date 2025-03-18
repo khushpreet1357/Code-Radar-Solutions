@@ -5,7 +5,7 @@ int isSorted(int arr[], int n) {
             return 0; 
         }
     }
-    return 0; 
+    return 1; 
 }
 
 int main() {
@@ -27,5 +27,5 @@ int main() {
         printf("Not Sorted\n");
     }
 
-    return 0;
+//     return 0;
 }
