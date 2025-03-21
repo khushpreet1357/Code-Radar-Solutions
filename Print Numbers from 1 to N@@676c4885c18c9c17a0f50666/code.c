@@ -5,10 +5,7 @@ int main(){
     scanf("%d",&n);
     for(i=1;i<=n;i++){
         printf("%d",i);
-        // if(i<=n){
-            printf(" ");
-        // }
+        printf(" "); 
     }
-    // printf("\n");
-    return 0;
+return 0;
     }
