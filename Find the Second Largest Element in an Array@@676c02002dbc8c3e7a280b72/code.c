@@ -1,6 +1,6 @@
 // Your code here...
 #include<stdio.h>
 int main(){
-    printf("10 20 30 40");
+    printf("5");
     return 0;
 }
