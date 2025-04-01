@@ -1,5 +1,5 @@
 #include<stdio.h>
-int min(){
+int khush(){
     printf("4");
     return 0;
 }
