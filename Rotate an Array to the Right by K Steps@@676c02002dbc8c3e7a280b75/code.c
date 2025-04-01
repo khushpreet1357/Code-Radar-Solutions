@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
-    printf("4");
-    return 0;
+    scanf("%d",&n);
+    scanf("%s",num);
+    printf("%s\n",num);
 }
